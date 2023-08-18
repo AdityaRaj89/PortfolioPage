@@ -1,0 +1,207 @@
+
+body{
+    padding-top: 0;
+    margin-top: 0;
+    background-color: black;
+    font-family: 'Montserrat',sans-serif;
+    color: rgb(65, 255, 255);
+    align-items: center;
+    justify-content: space-between;
+}
+a{
+    color: inherit;
+    text-decoration:none;
+    transition: text-shadow 0.6s ease-in-out;
+}
+a:hover{
+    color:greenyellow;
+    font-size:150%;
+    text-shadow: 0 0 10px greenyellow;
+}
+
+
+.top_banner{
+    display: inline;
+   
+    color: white;
+    padding-top: 0;
+    margin-top: 0;
+    margin-left: 20px;
+    height:50px;
+    font-size: 22px;
+    font-family: 'Montserrat',sans-serif;
+    position: fixed;
+}
+
+.nav{
+    margin-right:30px;
+}
+
+#banner{
+    
+color:#001F3F;
+height:515px;
+width: 100%;
+height: 515px;
+background-image: url('photi.jpg');
+background-size: cover; 
+background-position: center;
+background-repeat: no-repeat;
+
+
+}
+#div1{
+    margin-top: 20px;
+    padding:0;
+    text-align: center;
+}
+.div1_sub{
+    font-size: 60px;
+}
+
+.hello{
+    font-size:150px ;
+    padding:0;
+    padding-top: 100px;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+.intro{
+    
+    position: relative;
+    margin-top:0;
+    padding: 0px;
+    font-size: 100px;
+    font-weight:bold;
+}
+.photo{
+    height:200px;
+    width: 200px;
+    border-radius: 100%;
+    float:left ;
+}
+
+.about_ex{
+   
+    background-image: radial-gradient(circle, #0b6623 15%,#03080edc 65%);
+    
+    margin-bottom: 38px;
+    padding-bottom: 38px;;
+}
+.about{
+    margin:30px auto 60px auto;
+    width:1200px;
+    text-align: left;
+}
+
+
+.about_text{
+    
+    padding-left: 100px;
+    margin-left:150px;
+    color: aliceblue;
+    line-height: 35px;
+    font-size: 17px;
+}
+
+#Div2{
+ 
+    background: linear-gradient(to right, #157a87, #24133e);
+    text-align: center;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.edu{
+    padding-top:0px ;
+    padding-right: 350px;;
+    padding-left: 600px;
+    text-align: left;
+    line-height: 35px;
+    margin-bottom: 100px;
+}
+.nitplog{
+    float: left;
+    border-radius: 100%;
+    height: 100px;
+    width: 100px;
+    margin-right: 100px;
+    margin-bottom: 90px;
+}
+
+.stjlog{
+    float: right;
+    border-radius: 100%;
+    height: 100px;
+    width: 100px;
+    margin-right: 100px;
+}
+
+.stxlog{
+    float: left;
+    border-radius: 100%;
+    height: 150px;
+    width: 150px;
+    margin-right: 50px;
+}
+
+#Div3{
+    text-align: center;
+    background-image: radial-gradient(circle, #70074f 15%,#03080edc 65%);
+    margin:100px 0 100px 0;
+    padding-top:100px;
+    padding-bottom:100px;
+}
+
+.exp{
+    padding-top:0px ;
+    padding-right: 350px;;
+    padding-left: 600px;
+    text-align: left;
+    line-height: 35px;
+    margin-bottom: 100px;
+
+}
+
+#Div4{
+    text-align: center;
+    margin:100px 0 100px 0;
+    padding-top:100px;
+    padding-bottom:100px;
+    padding-left: 0;
+    padding-right: 0;
+
+}
+
+
+.skill_in{
+    margin:0;
+    padding:0px;
+    display:inline-block;
+    width:15%;
+}
+
+.skl{
+    display:block;
+    margin-bottom: 110px;
+
+}
+
+.sklim{
+    height:200px;
+    width:200px;
+    border-radius: 100%;
+}
+
+
+#Div5{
+    background-image: radial-gradient(circle, #2c6253 15%,#03080edc 65%);
+    text-align: center;
+    margin:0px 0 100px 0;
+    padding-top:50px;
+    padding-bottom:100px;
+    padding-left: 0;
+    padding-right: 0;
+    line-height: 30px;
+    font-size: 30px;
+}
